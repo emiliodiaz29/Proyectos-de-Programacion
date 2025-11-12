@@ -1,1 +1,5 @@
+El primer código busca la raíz de una ecuación usando dos métodos numéricos: el de 
+falsa posición y el de Newton modificado,a mbos repiten cálculos hasta lograr cuatro
+decimales de precisión o 50 intentos. El segundo código analiza una matriz para verificar si es 
+cuadrada, si se puede invertir, si es simétrica y si es definida positiva, mostrando los resultados de cada prueba.
 
