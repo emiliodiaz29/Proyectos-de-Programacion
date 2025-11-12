@@ -1,0 +1,8 @@
+Se desarrolló un programa que simula una contestadora de telefono, se creó uan clase llamada Mensaje, para que 
+el emisor y el nombre del mensaje, además de métodos para mostrar su contenido, también se implementó la clase
+Contestadora, que almacena hasta 10 mensajes y permite guardarlos, leerlos, obtenerlos por posición, borrarlos o
+vaciar la lista.
+
+Por otro lado se añadieron excepciones personalizadas para manejar errores como posiciones inválidas o contestadora llena,
+también se implementó la opcion de que los mensajes se conservan entre ejecuciones. 
+Finalmente, se generó la documentación en HTML y un archivo de prueba para verificar el funcionamiento.
